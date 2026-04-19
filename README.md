@@ -123,6 +123,7 @@ The spider chart groups entries into 8 directional sectors, each covering 45 deg
 - SW
 - W
 - NW
+
 Each logged angle is placed into the nearest directional bin. This means the chart shows directional distribution by sector, not exact polar coordinates for every individual reading.
 
 ## Future Improvements
