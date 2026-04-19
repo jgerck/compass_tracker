@@ -1,0 +1,71 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# Editor folders
+.idea/
+*.iml
+*.ipr
+*.iws
+.history
+.svn/
+.swiftpm/
+
+# VS Code settings (uncomment if you track workspace settings)
+#.vscode/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+**/doc/api/
+
+# Android
+/android/**/local.properties
+.android/
+/android/.gradle/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# iOS
+/ios/Flutter/.last_build_id
+/ios/Pods/
+/ios/Runner.xcworkspace/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+
+# macOS Flutter generated files
+/macos/Flutter/ephemeral/
+/macos/Pods/
+/macos/Podfile.lock
+/macos/Runner.xcworkspace/
+
+# Linux / Windows Flutter generated files
+/linux/flutter/ephemeral/
+/windows/flutter/ephemeral/
+
+# Web build output (already covered by build/, but harmless if explicit)
+/build/web/
+
+# CocoaPods workspace (auto-generated)
+/ios/Podfile.lock
+/*.xcworkspace
+**/xcuserdata
+
+# Symbolication / Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Coverage
+coverage/
+
+# Optional IDE / tooling
+migrate_working_dir/
